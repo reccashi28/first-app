@@ -1,6 +1,7 @@
 <template>
   <p>Hello {{ name }}</p>
   <p v-text="channel"></p>
+  <p>Test</p>
 </template>
 
 <script>
